@@ -1,6 +1,6 @@
 {
   "name": "how-do-i-say",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Assists in providing the correct pronunciations for any given word.",
   "main": "index.js",
   "scripts": {
