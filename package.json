@@ -1,0 +1,28 @@
+{
+  "name": "how-do-i-say",
+  "version": "1.0.0",
+  "description": "Assists in providing the correct pronunciations for any given word.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skowt/howdoisay.git"
+  },
+  "keywords": [
+    "how-do-i-say",
+    "howdoisay",
+    "pronounciation",
+    "how",
+    "do",
+    "i",
+    "say"
+  ],
+  "author": "Skowt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skowt/howdoisay/issues"
+  },
+  "homepage": "https://github.com/Skowt/howdoisay#readme"
+}
